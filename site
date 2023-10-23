@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joao Paulo - Professor de Inglês e Turismólogo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            text-align: center;
+        }
+        .profile {
+            margin-bottom: 20px;
+        }
+        .links {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="profile">
+        <h1>Joao Paulo</h1>
+        <p>Professor de Inglês e Turismólogo</p>
+        <p>Morando em Paris, França por mais de 15 anos</p>
+    </div>
+    
+    <div class="info">
+        <p>Imigrante brasileiro, totalmente regularizado, com 2 pós graduações.</p>
+    </div>
+    
+    <div class="links">
+        <a href="https://www.instagram.com/jota.journeys/" target="_blank">Instagram @jota.journeys</a>
+    </div>
+</body>
+</html>
